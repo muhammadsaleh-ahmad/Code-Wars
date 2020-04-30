@@ -1,0 +1,7 @@
+during the research i learned about new methods
+to check if the number is integer or float
+
+isinstance(i, int)-------> True
+isinstance(i, float)-------> False
+isinstance(f, int)-------> False
+isinstance(f, float)-------> True
