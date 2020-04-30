@@ -1,0 +1,7 @@
+what i learned here is the new method or 
+
+ord() return the numerical value of the character of the ASCII 
+
+isalpha() return if argument is a letter of the alphabetic or not
+
+solved in a single line
